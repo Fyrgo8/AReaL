@@ -1,0 +1,16 @@
+areal/api/cli_args.py
+  h_03da66b107afb6 3126-3133
+docs/en/cli_reference.md
+  h_03da66b107afb6 90,161,200,1256-1291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "686b8fffd0314d384d9dd4ff4263e697f0430ee7",
+  "prompts": {},
+  "humans": {
+    "h_03da66b107afb6": {
+      "author": "daoluzixin <daoluzixin@users.noreply.github.com>"
+    }
+  }
+}
