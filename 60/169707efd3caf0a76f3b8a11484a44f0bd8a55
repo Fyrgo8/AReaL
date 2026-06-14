@@ -1,0 +1,20 @@
+examples/diffusion/sd15_grpo.py
+  h_291cae5a6297a6 1-131
+areal/experimental/diffusion/aesthetic_reward.py
+  h_291cae5a6297a6 1-139
+examples/diffusion/sd15_grpo.yaml
+  h_291cae5a6297a6 1-32
+areal/experimental/diffusion/__init__.py
+  h_291cae5a6297a6 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "60169707efd3caf0a76f3b8a11484a44f0bd8a55",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}
