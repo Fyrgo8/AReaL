@@ -1,0 +1,14 @@
+examples/diffusion/verify_reinforce_equivalence.py
+  h_291cae5a6297a6 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:2.0.10",
+  "base_commit_sha": "6e3ae6094d7c9d75ae24d174b474ab67cb166ba8",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}
