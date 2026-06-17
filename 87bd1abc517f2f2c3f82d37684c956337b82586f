@@ -1,0 +1,16 @@
+examples/diffusion/prepare_assets.sh
+  h_291cae5a6297a6 5,9-19,21,27,35,40,45-46,50-55,57-78,82-87,91-93,95-98,100-102,123,125-126
+examples/diffusion/sd15_grpo.py
+  h_291cae5a6297a6 12,16-19,78-80,84-86,90-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.5",
+  "base_commit_sha": "87bd1abc517f2f2c3f82d37684c956337b82586f",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}

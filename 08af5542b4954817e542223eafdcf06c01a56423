@@ -1,0 +1,26 @@
+examples/diffusion/sd15_grpo.py
+  h_291cae5a6297a6 13,25,35-36,45-70,73,79-87,95-103,105-118,151-152,159,167,169-174,176-246,251
+examples/diffusion/sd15_grpo.yaml
+  h_291cae5a6297a6 8,31-34,37-42
+examples/diffusion/verify_reinforce_equivalence.py
+  h_291cae5a6297a6 30-35,41,185,200
+areal/experimental/diffusion/diffusion_engine.py
+  h_291cae5a6297a6 197-198,200-202,216,218-227,229-237,249-271,275-277,283-287,289-291,302-303,305-328,330,332-446
+areal/experimental/diffusion/aesthetic_reward.py
+  h_291cae5a6297a6 97-105
+areal/experimental/diffusion/diffusion_workflow.py
+  h_291cae5a6297a6 96-97,100-103,146-149
+areal/experimental/diffusion/diffusion_loss.py
+  h_291cae5a6297a6 15-21,74-75,87-90,106-110,119-122,124-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.5",
+  "base_commit_sha": "08af5542b4954817e542223eafdcf06c01a56423",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}

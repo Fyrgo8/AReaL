@@ -1,0 +1,14 @@
+areal/trainer/rl_trainer.py
+  h_291cae5a6297a6 60,363,667-674,677-678
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:2.0.2",
+  "base_commit_sha": "2589f289ba774a75a6cd8695b57711aca42107f1",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}

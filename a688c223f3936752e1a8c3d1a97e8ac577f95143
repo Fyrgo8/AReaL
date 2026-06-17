@@ -1,0 +1,20 @@
+.catpaw/rules/project-constraints.md
+  h_291cae5a6297a6 1-43
+.catpaw/rules/exec-plan-discipline.md
+  h_291cae5a6297a6 1-50
+.catpaw/rules/doc-maintenance.md
+  h_291cae5a6297a6 1-35
+docs/agents/01-meta.md
+  h_291cae5a6297a6 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "a688c223f3936752e1a8c3d1a97e8ac577f95143",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}

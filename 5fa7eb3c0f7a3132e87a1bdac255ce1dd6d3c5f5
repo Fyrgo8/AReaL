@@ -1,0 +1,18 @@
+areal/experimental/diffusion/diffusion_engine.py
+  h_291cae5a6297a6 209-223,254-258,260-262,274-275,277-279,281
+areal/experimental/diffusion/aesthetic_reward.py
+  h_291cae5a6297a6 96
+tests/test_diffusion_gaussian_logprob.py
+  h_291cae5a6297a6 1-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.7",
+  "base_commit_sha": "5fa7eb3c0f7a3132e87a1bdac255ce1dd6d3c5f5",
+  "prompts": {},
+  "humans": {
+    "h_291cae5a6297a6": {
+      "author": "daoluzixin <182356120+daoluzixin@users.noreply.github.com>"
+    }
+  }
+}
