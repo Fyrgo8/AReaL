@@ -1,0 +1,14 @@
+areal/api/cli_args.py
+  h_b78a316c9f6996 2554-2556,2597-2600
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:2.0.10",
+  "base_commit_sha": "de8b1a18c54f4ffb4291eff89ced82cd8920b66c",
+  "prompts": {},
+  "humans": {
+    "h_b78a316c9f6996": {
+      "author": "fengyunhao <fengyunhao@meituan.com>"
+    }
+  }
+}
